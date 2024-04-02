@@ -6,4 +6,4 @@ Antes de iniciar el proyecto se debe crear una base, en esta prueba usamos una b
 3._ Correr comando: php artisan db:seed
 4._ Correr comando: php artisan key:generate
 5._ Correr comando: php artisan passport:install
-6._ Correr comando: php artisan serve
+6._ Correr proyecto con: php artisan serve
